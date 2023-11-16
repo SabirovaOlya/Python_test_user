@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "first_name": "Uldaulet",
+        "last_name": "Sabirova",
+        "email": "sabirova@gmail.com",
+        "username": "Sabirova44",
+        "birth_date": "23-12-2004",
+        "password": "97a9b95912e90f919a3afddff62868a6462bea0b598bd1148739f46c60be295c"
+    },
+    {
+        "id": 2,
+        "first_name": "User",
+        "last_name": "LastName",
+        "email": "email@gmail.com",
+        "username": "User123",
+        "birth_date": "12-12-2012",
+        "password": "a61a8adf60038792a2cb88e670b20540a9d6c2ca204ab754fc768950e79e7d36"
+    }
+]
